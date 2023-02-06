@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.ContextMenu?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+       <fx:include source="BarMenu.fxml" />
+      <TableView layoutX="75.0" layoutY="133.0" prefHeight="200.0" prefWidth="419.0">
+        <columns>
+          <TableColumn fx:id="tcTitre" prefWidth="224.0" text="Titre" />
+          <TableColumn fx:id="tcDateSortie" minWidth="0.0" prefWidth="106.0" text="Date de sortie" />
+            <TableColumn fx:id="tcGenre" minWidth="0.0" prefWidth="88.0" text="Genre" />
+        </columns>
+         <contextMenu>
+            <ContextMenu>
+              <items>
+                <MenuItem fx:id="cmModifier" mnemonicParsing="false" text="Modifier" />
+                  <MenuItem fx:id="cmSupprimer" mnemonicParsing="false" text="Supprimer" />
+              </items>
+            </ContextMenu>
+         </contextMenu>
+      </TableView>
+      <Label layoutX="32.0" layoutY="59.0" text="Recherche(titre):" />
+      <TextField fx:id="tfRechercheTitre" layoutX="136.0" layoutY="55.0" />
+      <ComboBox fx:id="cbxGenreList" layoutX="419.0" layoutY="55.0" prefWidth="150.0" />
+   </children>
+</AnchorPane>

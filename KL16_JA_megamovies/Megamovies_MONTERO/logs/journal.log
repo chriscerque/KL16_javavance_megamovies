@@ -1,0 +1,57 @@
+2023-01-27 11:18:27.426 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:24:13.167 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:25:22.330 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:29:10.115 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:30:36.567 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:32:50.466 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:32:58.133 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:34:40.919 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:34:42.360 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = deniro trouver lors dune recherche
+2023-01-27 11:34:44.643 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:34:46.986 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 11:34:46.986 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = tarantino trouver lors dune recherche
+2023-01-27 11:34:56.184 [JavaFX Application Thread] INFO  LoggerFile - Film = la guerre des boutons sauvegarde
+2023-01-27 11:35:08.881 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:35:11.529 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 11:35:16.418 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:36:59.694 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:37:10.434 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 11:37:10.434 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = tarantino trouver lors dune recherche
+2023-01-27 11:37:13.452 [JavaFX Application Thread] INFO  LoggerFile - Film = gfd sauvegarde
+2023-01-27 11:44:07.478 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 11:44:07.479 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = tarantino trouver lors dune recherche
+2023-01-27 11:49:47.877 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:50:32.158 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 11:50:32.158 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = tarantino trouver lors dune recherche
+2023-01-27 11:50:46.963 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:57:43.169 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:59:44.390 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 11:59:47.720 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:03:08.656 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = tarantino trouver lors dune recherche
+2023-01-27 12:03:08.656 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 12:03:08.656 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = deniro trouver lors dune recherche
+2023-01-27 12:03:08.656 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = marcel trouver lors dune recherche
+2023-01-27 12:03:08.656 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = dorathé trouver lors dune recherche
+2023-01-27 12:03:16.979 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:03:22.182 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:03:23.856 [JavaFX Application Thread] INFO  LoggerFile - Film = la reine des neiges supprimer
+2023-01-27 12:03:23.858 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:03:31.794 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:03:34.008 [JavaFX Application Thread] INFO  LoggerFile - Film = gfd supprimer
+2023-01-27 12:03:34.011 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:03:36.509 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 12:03:36.509 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = tarantino trouver lors dune recherche
+2023-01-27 12:03:38.387 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:03:43.014 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:03:54.605 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = tarantino trouver lors dune recherche
+2023-01-27 12:03:54.605 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 12:03:54.606 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = deniro trouver lors dune recherche
+2023-01-27 12:03:54.606 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = marcel trouver lors dune recherche
+2023-01-27 12:03:54.606 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = dorathé trouver lors dune recherche
+2023-01-27 12:03:58.285 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:04:07.107 [JavaFX Application Thread] INFO  LoggerFile - Liste des film chargé
+2023-01-27 12:04:11.261 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = tarantino trouver lors dune recherche
+2023-01-27 12:04:11.261 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = michel trouver lors dune recherche
+2023-01-27 12:04:11.261 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = deniro trouver lors dune recherche
+2023-01-27 12:04:11.261 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = marcel trouver lors dune recherche
+2023-01-27 12:04:11.261 [JavaFX Application Thread] INFO  LoggerFile - Realisateur = dorathé trouver lors dune recherche

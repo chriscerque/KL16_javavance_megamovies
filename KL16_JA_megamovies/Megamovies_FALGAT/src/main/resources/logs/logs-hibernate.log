@@ -1,0 +1,339 @@
+2023-01-27 09:59:06,952 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 09:59:07,039 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 09:59:07,334 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 09:59:07,757 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 09:59:07,779 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 09:59:07,780 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 09:59:07,780 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 09:59:07,784 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 09:59:07,996 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 09:59:08,424 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 09:59:09,164 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 09:59:49,660 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 09:59:49,715 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 09:59:49,909 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 09:59:50,211 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 09:59:50,217 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 09:59:50,217 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 09:59:50,217 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 09:59:50,220 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 09:59:50,364 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 09:59:50,723 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 09:59:51,313 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:01:16,912 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:01:16,969 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:01:17,172 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:01:17,550 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:01:17,559 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:01:17,559 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:01:17,560 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:01:17,563 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:01:17,717 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:01:18,055 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:01:18,689 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:03:42,446 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:03:42,502 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:03:42,718 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:03:43,092 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:03:43,098 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:03:43,098 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:03:43,099 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:03:43,102 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:03:43,257 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:03:43,629 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:03:44,251 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:07:14,050 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:07:14,104 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:07:14,303 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:07:14,682 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:07:14,687 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:07:14,688 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:07:14,688 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:07:14,690 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:07:14,853 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:07:15,189 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:07:15,803 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:10:16,808 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:10:16,863 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:10:17,074 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:10:17,434 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:10:17,439 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:10:17,440 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:10:17,440 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:10:17,443 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:10:17,598 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:10:17,933 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:10:18,553 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:35:36,932 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:35:36,994 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:35:37,190 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:35:37,572 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:35:37,577 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:35:37,577 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:35:37,577 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:35:37,580 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:35:37,857 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:35:38,190 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:35:38,806 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:37:14,746 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:37:14,800 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:37:14,997 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:37:15,359 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:37:15,364 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:37:15,364 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:37:15,365 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:37:15,367 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:37:15,518 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:37:15,891 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:37:16,490 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:39:51,868 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:39:51,922 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:39:52,136 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:39:52,509 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:39:52,514 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:39:52,514 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:39:52,514 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:39:52,517 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:39:52,674 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:39:53,037 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:39:53,644 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:42:00,157 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:42:00,208 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:42:00,405 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:42:00,764 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:42:00,770 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:42:00,770 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:42:00,770 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:42:00,773 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:42:00,923 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:42:01,290 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:42:01,899 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:42:56,844 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:42:56,899 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:42:57,113 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:42:57,496 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:42:57,502 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:42:57,502 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:42:57,502 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:42:57,504 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:42:57,677 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:42:58,052 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:42:58,688 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:43:33,032 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:43:33,089 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:43:33,292 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:43:33,674 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:43:33,678 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:43:33,679 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:43:33,679 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:43:33,681 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:43:33,852 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:43:34,213 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:43:34,847 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:44:41,115 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:44:41,168 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:44:41,361 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:44:41,754 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:44:41,760 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:44:41,761 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:44:41,761 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:44:41,764 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:44:41,912 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:44:42,306 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:44:42,907 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:51:23,481 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:51:23,542 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:51:23,731 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:51:24,101 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:51:24,106 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:51:24,107 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:51:24,107 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:51:24,110 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:51:24,268 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:51:24,648 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:51:25,241 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:52:02,334 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:52:02,393 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:52:02,633 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:52:03,173 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:52:03,180 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:52:03,181 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:52:03,181 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:52:03,184 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:52:03,337 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:52:03,684 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:52:04,312 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 10:59:09,707 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 10:59:09,761 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 10:59:09,970 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 10:59:10,341 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 10:59:10,347 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 10:59:10,347 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 10:59:10,347 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 10:59:10,350 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 10:59:10,494 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 10:59:10,873 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 10:59:11,464 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:00:07,747 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:00:07,800 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:00:07,996 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:00:08,296 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:00:08,300 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:00:08,301 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:00:08,301 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:00:08,303 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:00:08,452 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:00:08,838 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:00:09,447 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:08:50,482 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:08:50,535 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:08:50,736 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:08:51,110 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:08:51,114 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:08:51,115 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:08:51,115 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:08:51,117 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:08:51,262 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:08:51,619 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:08:52,208 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:10:14,751 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:10:14,806 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:10:15,008 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:10:15,383 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:10:15,388 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:10:15,389 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:10:15,389 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:10:15,391 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:10:15,542 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:10:15,958 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:10:16,572 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:10:43,605 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:10:43,666 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:10:43,855 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:10:44,236 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:10:44,241 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:10:44,242 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:10:44,242 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:10:44,245 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:10:44,404 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:10:44,769 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:10:45,363 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:13:58,562 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:13:58,616 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:13:58,836 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:13:59,209 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:13:59,214 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:13:59,215 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:13:59,215 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:13:59,217 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:13:59,382 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:13:59,738 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:14:00,332 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:14:30,925 [WARN ] SqlExceptionHelper - SQL Error: 0, SQLState: 42601
+2023-01-27 11:14:30,926 [ERROR] SqlExceptionHelper - ERREUR: erreur de syntaxe sur ou près de « . »
+  Position : 203
+2023-01-27 11:15:00,275 [WARN ] SqlExceptionHelper - SQL Error: 0, SQLState: 42601
+2023-01-27 11:15:00,276 [ERROR] SqlExceptionHelper - ERREUR: erreur de syntaxe sur ou près de « . »
+  Position : 203
+2023-01-27 11:15:03,279 [WARN ] SqlExceptionHelper - SQL Error: 0, SQLState: 42601
+2023-01-27 11:15:03,279 [ERROR] SqlExceptionHelper - ERREUR: erreur de syntaxe sur ou près de « . »
+  Position : 203
+2023-01-27 11:18:11,995 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:18:12,047 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:18:12,254 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:18:12,645 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:18:12,651 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:18:12,651 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:18:12,651 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:18:12,654 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:18:12,850 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:18:13,210 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:18:13,817 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:19:05,143 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:19:05,217 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:19:05,429 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:19:05,798 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:19:05,804 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:19:05,804 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:19:05,804 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:19:05,807 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:19:05,951 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:19:06,381 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:19:06,970 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:20:09,842 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:20:09,895 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:20:10,101 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:20:10,422 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:20:10,427 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:20:10,427 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:20:10,427 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:20:10,430 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:20:10,699 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:20:11,031 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:20:11,677 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:27:15,305 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:27:15,359 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:27:15,563 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:27:15,930 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:27:15,935 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:27:15,935 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:27:15,935 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:27:15,937 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:27:16,089 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:27:16,439 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:27:17,027 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:30:48,894 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:30:48,947 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:30:49,140 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:30:49,503 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:30:49,508 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:30:49,508 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:30:49,508 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:30:49,511 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:30:49,658 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:30:50,015 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:30:50,609 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:33:55,650 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:33:55,704 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:33:55,902 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:33:56,273 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:33:56,278 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:33:56,279 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:33:56,279 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:33:56,281 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:33:56,443 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:33:56,859 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:33:57,502 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:35:06,080 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:35:06,136 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:35:06,346 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:35:06,742 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:35:06,747 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:35:06,747 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:35:06,747 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:35:06,750 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:35:06,923 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:35:07,280 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:35:07,891 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:42:08,846 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:42:08,898 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:42:09,094 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:42:09,464 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:42:09,473 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:42:09,473 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:42:09,473 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:42:09,476 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:42:09,618 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:42:09,985 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:42:10,577 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-27 11:45:43,200 [INFO ] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: pu]
+2023-01-27 11:45:43,255 [INFO ] Version - HHH000412: Hibernate ORM core version 5.5.7.Final
+2023-01-27 11:45:43,465 [INFO ] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-27 11:45:43,847 [WARN ] pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-27 11:45:43,852 [INFO ] pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/megamovies]
+2023-01-27 11:45:43,852 [INFO ] pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2023-01-27 11:45:43,852 [INFO ] pooling - HHH10001003: Autocommit mode: false
+2023-01-27 11:45:43,855 [INFO ] DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-01-27 11:45:44,021 [INFO ] Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-01-27 11:45:44,387 [INFO ] Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-01-27 11:45:44,988 [INFO ] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.ent.etrs.megamovie.controller.ListeController">
+   <children>
+       <fx:include source="BarreMenu.fxml"/>
+      <Label layoutX="58.0" layoutY="99.0" text="Recherche (titre) :" />
+      <TextField fx:id="listeRecherche" layoutX="172.0" layoutY="95.0"  />
+      <ChoiceBox fx:id="listeDeroulant" layoutX="382.0" layoutY="95.0" prefWidth="150.0" />
+      <TableView fx:id="listeTv" layoutX="58.0" layoutY="148.0" prefHeight="200.0" prefWidth="511.0">
+        <columns>
+          <TableColumn fx:id="listeTcTitre" prefWidth="257.0" text="Titre" />
+          <TableColumn fx:id="listeTcSortie" prefWidth="127.0" text="Date de sortie" />
+            <TableColumn fx:id="listeTcGenre" prefWidth="126.0" text="Genre" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="500.0" maxWidth="600.0" minHeight="500.0" minWidth="600.0" prefHeight="500.0" prefWidth="600.0" stylesheets="@style/style.css" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.ent.etrs.megamovies.controller.ListerFilmographieController">
+    <children>
+        <fx:include fx:id="barreMenu" source="BarreMenu.fxml" />
+        <TableView fx:id="tvFilms" layoutX="38.0" layoutY="100.0" prefHeight="368.0" prefWidth="500.0">
+            <columns>
+                <TableColumn fx:id="tcTitre" prefWidth="215.0" text="Titre" />
+                <TableColumn fx:id="tcDateSortie" prefWidth="134.0" text="Date de sortie" />
+                <TableColumn fx:id="tcGenre" prefWidth="150.0" text="Genre" />
+            </columns>
+        </TableView>
+      <ChoiceBox fx:id="cbRealisateur" layoutX="38.0" layoutY="55.0" prefWidth="150.0" />
+    </children>
+
+</AnchorPane>

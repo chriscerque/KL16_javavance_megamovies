@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.ent.etrs.template.controllers.ListerFilmController">
+
+    <children>
+        <fx:include source="BarreMenu.fxml" />
+      <TextField fx:id="tfRecherche" layoutX="129.0" layoutY="48.0" />
+      <Label layoutX="27.0" layoutY="52.0" text="Rechercher (titre)" />
+      <ComboBox fx:id="cbRealisateur" layoutX="413.0" layoutY="48.0" prefWidth="150.0" />
+      <TableView fx:id="tvFilm" layoutX="52.0" layoutY="127.0" prefHeight="200.0" prefWidth="496.0">
+        <columns>
+          <TableColumn fx:id="tcTitre" prefWidth="181.0" text="Titre" />
+          <TableColumn fx:id="tcDateSortie" prefWidth="176.0" text="Date de sortie" />
+            <TableColumn fx:id="tcGenre" prefWidth="138.0" text="Genre" />
+        </columns>
+      </TableView>
+
+    </children>
+</AnchorPane>

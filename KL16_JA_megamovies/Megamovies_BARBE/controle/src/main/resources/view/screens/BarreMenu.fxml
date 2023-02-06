@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.HBox?>
+<HBox xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+      minWidth="-Infinity"
+      prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.111"
+      fx:controller="net.ent.etrs.megamovies_barbe.controllers.BarreMenuController">
+    <children>
+        <MenuBar fx:id="menu" prefHeight="25.0" prefWidth="1302.0">
+            <menus>
+                <Menu mnemonicParsing="false" text="Movies">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#listerFilms" text="Lister les films"/>
+                        <MenuItem mnemonicParsing="false" onAction="#ajouterFilms" text="Ajouter un film"/>
+                        <MenuItem mnemonicParsing="false" onAction="#quitter" text="Quitter"/>
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Aide">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#aPropos" text="Infos"/>
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </children>
+</HBox>

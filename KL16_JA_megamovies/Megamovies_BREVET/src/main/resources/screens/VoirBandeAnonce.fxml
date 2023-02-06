@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.web.WebView?>
+<VBox xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.ent.etrs.templatefx.controller.VoirBandeAnnonceController" prefHeight="400.0"
+      prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111">
+
+    <children>
+        <WebView fx:id="wvVideo" prefHeight="200.0" prefWidth="200.0"/>
+        <fx:include source="BarreMenu.fxml"/>
+        <ProgressBar fx:id="pbChargement" prefHeight="18.0" prefWidth="608.0" progress="0.0"/>
+    </children>
+
+</VBox>

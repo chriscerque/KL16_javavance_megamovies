@@ -1,0 +1,15 @@
+2023-01-27 11:56:16.074 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 11:56:18.379 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 11:56:18.383 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les réalisateur de la BDD
+2023-01-27 12:00:51.075 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 12:00:58.067 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 12:00:58.071 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les réalisateur de la BDD
+2023-01-27 12:02:54.181 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 12:02:56.838 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les film de Realisateur(super=AbstractEntity(id=3), nom=tarantino)
+2023-01-27 12:02:56.850 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les réalisateur de la BDD
+2023-01-27 12:05:02.680 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 12:05:06.259 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 12:05:06.263 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les réalisateur de la BDD
+2023-01-27 12:06:49.764 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 12:06:52.052 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les films de la BDD
+2023-01-27 12:06:52.055 [JavaFX Application Thread] INFO  LoggerInit2 - Recherche de tous les réalisateur de la BDD

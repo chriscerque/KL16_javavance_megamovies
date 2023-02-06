@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <fx:include source="BarreMenu.fxml" />
+        <Label layoutX="80.0" layoutY="77.0" text="Titre : " />
+        <TextField fx:id="tfTitre" layoutX="185.0" layoutY="73.0" prefHeight="25.0" prefWidth="174.0" />
+        <Label layoutX="75.0" layoutY="118.0" text="Date de sortie: " />
+        <Label layoutX="77.0" layoutY="162.0" text="Genre :" />
+        <Label fx:id="lblMessage" layoutX="225.0" layoutY="323.0" prefHeight="17.0" prefWidth="234.0" />
+        <Button fx:id="btnValider" disable="true" layoutX="250.0" layoutY="291.0" mnemonicParsing="false" onAction="#creer" text="Valider" />
+        <DatePicker fx:id="dpDateSortie" disable="true" layoutX="185.0" layoutY="114.0" />
+        <Label layoutX="79.0" layoutY="202.0" prefHeight="39.0" prefWidth="81.0" text="Réalisateur :" wrapText="true" />
+        <ComboBox fx:id="cbGenre" disable="true" layoutX="185.0" layoutY="158.0" prefHeight="25.0" prefWidth="174.0" />
+        <ComboBox fx:id="cbRea" disable="true" layoutX="185.0" layoutY="209.0" prefHeight="25.0" prefWidth="174.0" />
+      <Label fx:id="lblListeFilm" disable="true" layoutX="80.0" layoutY="252.0" prefHeight="17.0" prefWidth="234.0" text="Films : " />
+    </children>
+</AnchorPane>

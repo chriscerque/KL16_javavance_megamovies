@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <fx:include source="BarreMenu.fxml"/>
+      <TextField fx:id="textTitre" layoutX="216.0" layoutY="92.0" />
+      <Label layoutX="82.0" layoutY="96.0" text="Titre" />
+      <Label layoutX="82.0" layoutY="239.0" text="Realisateur" />
+      <Label layoutX="82.0" layoutY="192.0" text="Genre" />
+      <Label layoutX="82.0" layoutY="150.0" text="Date" />
+      <DatePicker fx:id="dateSortie" layoutX="204.0" layoutY="146.0" />
+      <ChoiceBox fx:id="genreBox" layoutX="216.0" layoutY="201.0" prefWidth="150.0" />
+      <ChoiceBox fx:id="realBox" layoutX="216.0" layoutY="244.0" prefWidth="150.0" />
+      <Button fx:id="valider" layoutX="204.0" layoutY="323.0" mnemonicParsing="false" onAction="#valide" text="Valider" />
+   </children>
+</AnchorPane>

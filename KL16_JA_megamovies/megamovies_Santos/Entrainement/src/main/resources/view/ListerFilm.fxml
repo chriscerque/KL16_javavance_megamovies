@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="481.0" prefWidth="756.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+
+    <children>
+        <fx:include source="BarreMenu.fxml" />
+      <TextField fx:id="tfRecherche" layoutX="55.0" layoutY="38.0" prefHeight="33.0" prefWidth="477.0" />
+      <TableView fx:id="tvPersonnes" layoutX="15.0" layoutY="86.0" prefHeight="359.0" prefWidth="727.0">
+        <columns>
+          <TableColumn fx:id="tcTitre" prefWidth="225.0" text="Titre" />
+            <TableColumn fx:id="tcDateSortie" prefWidth="192.0" text="Date de sortie" />
+            <TableColumn fx:id="cbGenre" prefWidth="240.0" text="Genre" />
+        </columns>
+      </TableView>
+      <CheckBox fx:id="chTaille" layoutX="19.0" layoutY="445.0" mnemonicParsing="false" text="CheckBox" />
+    </children>
+
+</AnchorPane>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.ent.etrs.megamovies_barbe.controllers.AccueilController">
+    <children>
+        <fx:include source="BarreMenu.fxml" />
+      <Text layoutX="181.0" layoutY="426.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Page d'accueil de Méga movies">
+         <font>
+            <Font name="System Bold Italic" size="63.0" />
+         </font>
+      </Text>
+    </children>
+</AnchorPane>

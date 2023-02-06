@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml" xmlns="http://javafx.com/javafx"
+            prefHeight="400.0" prefWidth="600.0"
+            fx:controller="net.ent.etrs.megamovies.controllers.BarreMenuController">
+    <children>
+        <MenuBar fx:id="menu" prefHeight="25.0" prefWidth="608.0">
+            <menus>
+                <Menu mnemonicParsing="false" text="Movies">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#ListerMovies" text="Lister les films"/>
+                        <MenuItem mnemonicParsing="false" onAction="#AjouterMovies" text="Ajouter un film"/>
+                        <MenuItem mnemonicParsing="false" onAction="#quitter" text="Quitter"/>
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </children>
+
+</AnchorPane>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
+    <Properties>
+        <Property name="pattern">%d [%-5p] %c{1} - %m%n</Property>
+    </Properties>
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${pattern}"/>
+        </Console>
+        <File name="log" fileName="logs/logs-bdd.log">
+            <PatternLayout pattern="${pattern}"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Logger name="logBdd" level="info" additivity="false">
+            <AppenderRef ref="logBdd"/>
+        </Logger>
+        <Root level="info">
+            <AppenderRef ref="log"/>
+        </Root>
+    </Loggers>
+</Configuration>

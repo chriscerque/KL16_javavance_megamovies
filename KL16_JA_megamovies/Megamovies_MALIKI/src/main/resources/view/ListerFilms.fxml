@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.ent.etrs.megamovies.controllers.ListerFilmsController">
+    <children>
+        <fx:include fx:id="barreMenu" source="BarreMenu.fxml" />
+        <TextField fx:id="tfRecherche" layoutX="136.0" layoutY="76.0" prefHeight="25.0" prefWidth="164.0" />
+        <ChoiceBox fx:id="cbRecherche" layoutX="397.0" layoutY="76.0" prefWidth="150.0" />
+        <TableView fx:id="tvFilms" layoutX="39.0" layoutY="148.0" prefHeight="222.0" prefWidth="516.0">
+            <columns>
+                <TableColumn fx:id="tcTitre" prefWidth="232.0" text="Titre" />
+                <TableColumn fx:id="tcDateSortie" minWidth="0.0" prefWidth="146.0" text="Date de Sortie" />
+                <TableColumn fx:id="tcGenre" prefWidth="137.0" text="Genre" />
+            </columns>
+        </TableView>
+        <Label layoutX="27.0" layoutY="80.0" text="Rechecher (titre) : " />
+    </children>
+</AnchorPane>

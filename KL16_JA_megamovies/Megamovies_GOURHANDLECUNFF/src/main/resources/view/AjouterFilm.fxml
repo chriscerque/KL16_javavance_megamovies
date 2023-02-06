@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="500.0" maxWidth="600.0" minHeight="500.0" minWidth="600.0" prefHeight="500.0" prefWidth="600.0" stylesheets="@style/style.css" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+	<children>
+		<fx:include fx:id="barreMenu" source="BarreMenu.fxml" />
+      <Button fx:id="btnCreerModifier" layoutX="196.0" layoutY="435.0" mnemonicParsing="false" onAction="#ajouterFilm" text="Ajouter" />
+      <Button fx:id="btnAnnuler" layoutX="316.0" layoutY="435.0" mnemonicParsing="false" onAction="#annuler" text="Annuler" />
+      <Label layoutX="73.0" layoutY="101.0" text="Titre : " />
+      <Label layoutX="71.0" layoutY="193.0" text="Genre :" />
+      <Label layoutX="73.0" layoutY="145.0" text="Date de sortie :" />
+      <TextField fx:id="tfNom" layoutX="213.0" layoutY="101.0" prefHeight="25.0" prefWidth="205.0" />
+      <Label layoutX="73.0" layoutY="258.0" text="Réalisateur :" />
+      <ChoiceBox fx:id="cbGenre" layoutX="213.0" layoutY="187.0" prefHeight="25.0" prefWidth="205.0" />
+      <ChoiceBox fx:id="cbRealisateur" layoutX="214.0" layoutY="252.0" prefHeight="25.0" prefWidth="205.0" />
+      <DatePicker fx:id="dpDateSortie" layoutX="214.0" layoutY="145.0" prefHeight="25.0" prefWidth="205.0" />
+	</children>
+
+</AnchorPane>
