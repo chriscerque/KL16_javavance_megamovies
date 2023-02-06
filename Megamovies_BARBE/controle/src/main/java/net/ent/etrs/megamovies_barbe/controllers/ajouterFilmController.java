@@ -6,7 +6,9 @@ import javafx.collections.ObservableList;
 import javafx.collections.transformation.FilteredList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.scene.control.*;
+import javafx.scene.control.Alert;
+import javafx.scene.control.ComboBox;
+import javafx.scene.control.DatePicker;
 import net.ent.etrs.megamovies_barbe.commons.utils.AlerteUtils;
 import net.ent.etrs.megamovies_barbe.commons.validator.ValidException;
 import net.ent.etrs.megamovies_barbe.commons.validator.ValidatorUtils;
@@ -19,6 +21,7 @@ import net.ent.etrs.megamovies_barbe.view.references.ConstantesView;
 import net.ent.etrs.megamovies_barbe.view.references.converter.LocalDateConverter;
 import net.ent.etrs.megamovies_barbe.view.references.converter.RealisateurConverter;
 
+import java.awt.*;
 import java.time.LocalDate;
 import java.util.Objects;
 
