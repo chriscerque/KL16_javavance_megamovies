@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns:fx="http://javafx.com/fxml/1" fx:id="laBarre"
+      fx:controller="net.ent.etrs.megamovies.controllers.BarreMenuController"
+      prefHeight="22.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8">
+    <children>
+        <MenuBar>
+            <menus>
+                <Menu mnemonicParsing="false" text="UC">
+                    <items>
+                        <MenuItem fx:id="listerFilms" onAction="#listerFilms" mnemonicParsing="false"
+                                  text="Lister les films"/>
+                        <MenuItem fx:id="ajouterFilm" onAction="#ajouterFilm" mnemonicParsing="false"
+                                  text="Ajouter un film"/>
+                        <MenuItem fx:id="quitter" onAction="#quitter" mnemonicParsing="false" text="Quitter"/>
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Aide">
+                    <items>
+                        <MenuItem onAction="#apropos" mnemonicParsing="false" text="A propos"/>
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </children>
+</VBox>
