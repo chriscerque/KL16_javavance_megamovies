@@ -4,8 +4,363 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0117bf5b-19d4-431d-b290-9ac3aeb84371" name="Changes" comment="correction 20230306_1">
+    <list default="true" id="0117bf5b-19d4-431d-b290-9ac3aeb84371" name="Changes" comment="correction 20230306_2">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/mega_movies.sAv4Kw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/mega_movies.sAv4Kw/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/mega_movies.sAv4Kw/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/mega_movies.sAv4Kw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaremeJavaAvanceTest2_KL16 - Copie (2).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Megamovies_MALIKI/net/ent/etrs/megamovies/view/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaremeJavaAvanceTest2_KL16 - Copie.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/BaremeJavaAvanceTest2_KL16 - Copie.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaremeJavaAvanceTest2_KL16.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/BaremeJavaAvanceTest2_KL16.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEGAMOVIES_MEGNAN_KL16/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MEGAMOVIES_MEGNAN_KL16/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/fileTemplates/includes/FXML File.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/fileTemplates/includes/FXML File.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/fileTemplates/internal/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/fileTemplates/internal/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/fileTemplates/internal/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/template-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/template-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/logs/journal.log" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/logs/journal.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/AlerteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/AlerteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/ClickableMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/ClickableMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/ContraintesVioleesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/ContraintesVioleesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/JpaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/commons/utils/JpaUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/commons/validator/ValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/commons/validator/ValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/commons/validator/ValidatorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/commons/validator/ValidatorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/controllers/AbstractController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/controllers/AbstractController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/controllers/AccueilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/controllers/AccueilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/controllers/BarreMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/controllers/BarreMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/controllers/ajouterFilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/controllers/ajouterFilmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/controllers/listerFilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/controllers/listerFilmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/AbstractJpaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/AbstractJpaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/DaoFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/DaoFilm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/DaoRealisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/DaoRealisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/base/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/base/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/base/JpaBaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/base/JpaBaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/exceptions/DaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/exceptions/DaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/impl/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/impl/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/impl/DaoFilmJpaImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/impl/DaoFilmJpaImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/impl/DaoRealisateurJpaImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/dao/impl/DaoRealisateurJpaImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/EntitiesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/EntitiesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/Realisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/Realisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/references/Constantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/references/Constantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/references/ConstantesErreur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/references/ConstantesErreur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/references/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/entity/references/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/exceptions/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/exceptions/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/exceptions/DaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/exceptions/DaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/facades/FacadeMetierFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/facades/FacadeMetierFilm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/facades/FacadeMetierFilmImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/facades/FacadeMetierFilmImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/facades/FacadeMetierRealisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/facades/FacadeMetierRealisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/model/facades/FacadeMetierRealisateurImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/model/facades/FacadeMetierRealisateurImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/start/Lanceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/start/Lanceur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/view/references/ConstantesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/view/references/ConstantesView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/view/references/Screens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/view/references/Screens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/view/references/converter/LocalDateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/view/references/converter/LocalDateConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/java/net/ent/etrs/megamovies_barbe/view/references/converter/RealisateurConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/java/net/ent/etrs/megamovies_barbe/view/references/converter/RealisateurConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/resources/view/screens/Accueil.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/resources/view/screens/Accueil.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/resources/view/screens/BarreMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/resources/view/screens/BarreMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/resources/view/screens/ajouterFilm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/resources/view/screens/ajouterFilm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BARBE/controle/src/main/resources/view/screens/listerFilm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BARBE/src/main/resources/view/screens/listerFilm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_BONNIER/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_BONNIER/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_CORAZZA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_CORAZZA/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_FARIAT/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_FARIAT/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MALIKI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MALIKI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/commons/utils/ContraintesVioleesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/commons/utils/ContraintesVioleesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/commons/utils/JpaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/commons/utils/JpaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/commons/validator/ValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/commons/validator/ValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/commons/validator/ValidatorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/commons/validator/ValidatorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/controllers/AbstractController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/controllers/AbstractController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/controllers/AcceuilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/controllers/AcceuilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/controllers/BarreMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/controllers/BarreMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/daos/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/daos/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/daos/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/daos/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/daos/exceptions/DaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/daos/exceptions/DaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/daos/impl/AbstractJpaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/daos/impl/AbstractJpaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/daos/impl/DaosFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/daos/impl/DaosFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/daos/impl/FilmDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/daos/impl/FilmDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/daos/impl/JpaBaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/daos/impl/JpaBaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/entities/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/entities/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/entities/EntitiesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/entities/EntitiesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/entities/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/entities/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/entities/references/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/entities/references/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/entities/references/MessageErreur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/entities/references/MessageErreur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/entities/references/Realisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/entities/references/Realisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/facades/FacadeMetierFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/facades/FacadeMetierFilm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/facades/FacadeMetierRealisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/facades/FacadeMetierRealisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/facades/exceptions/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/facades/exceptions/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/model/facades/impl/FacadeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/model/facades/impl/FacadeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/start/Lanceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/start/Lanceur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/view/references/Screens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/view/references/Screens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/view/utils/AlerteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/view/utils/AlerteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/view/utils/ClickableMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/view/utils/ClickableMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/java/net/ent/etrs/template/view/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/java/net/ent/etrs/template/view/utils/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/resources/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/resources/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/resources/img/kodokan.png" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/resources/img/kodokan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/resources/screens/Accueil.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/resources/screens/Accueil.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MARCHIONE/templateJFX/src/main/resources/screens/BarreMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MARCHIONE/src/main/resources/screens/BarreMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/template-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/template-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/commons/utils/ContraintesVioleesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/commons/utils/ContraintesVioleesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/commons/utils/JpaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/commons/utils/JpaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/commons/validator/ValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/commons/validator/ValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/commons/validator/ValidatorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/commons/validator/ValidatorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/controller/AbstractController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/controller/AbstractController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/controller/BarMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/controller/BarMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/controller/GererFilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/controller/GererFilmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/controller/ListerFilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/controller/ListerFilmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/controller/VoirFilmographieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/controller/VoirFilmographieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/FilmDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/FilmDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/RealisateurDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/RealisateurDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/exception/DaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/exception/DaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/impl/AbstractJpaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/impl/AbstractJpaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/impl/DaosFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/impl/DaosFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/impl/FilmDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/impl/FilmDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/impl/JpaBaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/impl/JpaBaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/dao/impl/RealisateurDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/dao/impl/RealisateurDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/entities/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/entities/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/entities/EntitiesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/entities/EntitiesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/entities/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/entities/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/entities/Realisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/entities/Realisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/entities/reference/Constantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/entities/reference/Constantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/entities/reference/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/entities/reference/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/entities/reference/MessageErreur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/entities/reference/MessageErreur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/exceptions/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/exceptions/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/facade/FacadeMetierFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/facade/FacadeMetierFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/facade/FacadeMetierFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/facade/FacadeMetierFilm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/facade/FacadeMetierRealisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/facade/FacadeMetierRealisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/facade/impl/AbstractFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/facade/impl/AbstractFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/facade/impl/FacadeMetierFilmImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/facade/impl/FacadeMetierFilmImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/model/facade/impl/FacadeMetierRealisateurImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/model/facade/impl/FacadeMetierRealisateurImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/start/Lanceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/start/Lanceur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/view/C_VIEW.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/view/C_VIEW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/view/references/Screens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/view/references/Screens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/view/utils/AlerteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/view/utils/AlerteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/view/utils/ClickableMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/view/utils/ClickableMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/java/net/ent/etrs/projectname/view/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/java/net/ent/etrs/projectname/view/utils/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/resources/screens/BarMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/resources/screens/BarMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/resources/screens/VoirFilmographie.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/resources/screens/VoirFilmographie.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/resources/screens/gererFilm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/resources/screens/gererFilm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_PARIS/TEST_JAVA_AVANCE_02/src/main/resources/screens/listerFilm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_PARIS/src/main/resources/screens/listerFilm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REAL/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REAL/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/controller/AbstractController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/controller/AbstractController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/controller/AccueilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/controller/AccueilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/controller/AjoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/controller/AjoutController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/controller/ListeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/controller/ListeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/controller/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/controller/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/controller/references/ConstantesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/controller/references/ConstantesView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/FilmDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/FilmDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/GenreDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/GenreDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/RealisateurDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/RealisateurDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/base/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/base/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/base/JpaBaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/base/JpaBaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/exceptions/DaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/exceptions/DaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/impl/AbstractDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/impl/AbstractDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/impl/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/impl/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/impl/FilmDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/impl/FilmDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/impl/RealisateurDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/impl/RealisateurDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/jpa/REQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/jpa/REQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/daos/jpa/utils/JpaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/daos/jpa/utils/JpaUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/entities/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/entities/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/entities/EntitiesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/entities/EntitiesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/entities/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/entities/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/entities/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/entities/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/entities/Realisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/entities/Realisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/exceptions/Constante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/exceptions/Constante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/exceptions/MessageErreur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/exceptions/MessageErreur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/exceptions/ValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/exceptions/ValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/facades/FacadeMetierFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/facades/FacadeMetierFilm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/facades/FacadeMetierRealisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/facades/FacadeMetierRealisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/facades/exceptions/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/facades/exceptions/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/facades/impl/AbstractFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/facades/impl/AbstractFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/facades/impl/FacadeFilmImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/facades/impl/FacadeFilmImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/model/facades/impl/FacadeRealisateurImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/model/facades/impl/FacadeRealisateurImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/start/Lanceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/start/Lanceur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/view/Screens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/view/Screens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/view/utils/AlerteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/view/utils/AlerteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/view/utils/ClickableMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/view/utils/ClickableMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/java/net/ent/etrs/megamovie/view/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/java/net/ent/etrs/megamovie/view/utils/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/resources/view/Accueil.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/resources/view/Accueil.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/resources/view/Ajout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/resources/view/Ajout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/resources/view/BarreMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/resources/view/BarreMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_REDAOUIA/megamovies/src/main/resources/view/Lister.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_REDAOUIA/src/main/resources/view/Lister.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/template-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/template-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/commons/utils/console/AffichageConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/commons/utils/console/AffichageConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/commons/utils/console/LectureConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/commons/utils/console/LectureConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/commons/utils/console/exceptions/GestionFichiersException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/commons/utils/console/exceptions/GestionFichiersException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/commons/utils/jxf/AlerteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/commons/utils/jxf/AlerteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/commons/utils/jxf/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/commons/utils/jxf/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/commons/utils/validator/ValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/commons/utils/validator/ValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/commons/utils/validator/ValidatorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/commons/utils/validator/ValidatorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/commons/utils/validator/utils/ContraintesVioleesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/commons/utils/validator/utils/ContraintesVioleesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/controller/AbstractController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/controller/AbstractController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/controller/AccueilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/controller/AccueilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/controller/BarreMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/controller/BarreMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/controller/GererFilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/controller/GererFilmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/controller/ListerFilmsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/controller/ListerFilmsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/FilmDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/FilmDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/RealisateurDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/RealisateurDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/commons/JpaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/commons/JpaUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/exceptions/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/exceptions/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/exceptions/DaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/exceptions/DaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/impl/AbstractJpaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/impl/AbstractJpaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/impl/DaosFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/impl/DaosFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/impl/FilmDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/impl/FilmDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/impl/JpaBaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/impl/JpaBaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/daos/impl/RealisateurDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/daos/impl/RealisateurDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/entities/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/entities/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/entities/EntitiesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/entities/EntitiesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/entities/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/entities/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/entities/Realisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/entities/Realisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/entities/references/ConstanteMetier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/entities/references/ConstanteMetier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/entities/references/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/entities/references/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/facade/FacadeMetierFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/facade/FacadeMetierFilm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/facade/FacadeMetierRealisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/facade/FacadeMetierRealisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/facade/impl/FacadeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/facade/impl/FacadeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/facade/impl/FacadeMetierFilmImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/facade/impl/FacadeMetierFilmImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/model/facade/impl/FacadeMetierRealisateurimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/model/facade/impl/FacadeMetierRealisateurimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/start/Lanceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/start/Lanceur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/view/converters/LocalDateJFXConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/view/converters/LocalDateJFXConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/view/converters/MarqueConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/view/converters/MarqueConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/view/exceptions/ViewException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/view/exceptions/ViewException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/view/references/ConstanteView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/view/references/ConstanteView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/view/references/Screens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/view/references/Screens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/view/utils/AlerteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/view/utils/AlerteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/view/utils/ClickableMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/view/utils/ClickableMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/java/net/ent/etrs/megamovies/view/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/java/net/ent/etrs/megamovies/view/utils/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/resources/screens/Accueil.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/resources/screens/Accueil.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/resources/screens/BarreMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/resources/screens/BarreMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/resources/screens/GererFilm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/resources/screens/GererFilm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_Simon/megamovies/src/main/resources/screens/ListerFilms.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_Simon/src/main/resources/screens/ListerFilms.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/template-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/template-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/commons/utils/ContraintesVioleesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/commons/utils/ContraintesVioleesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/commons/utils/JpaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/commons/utils/JpaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/commons/validator/ValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/commons/validator/ValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/commons/validator/ValidatorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/commons/validator/ValidatorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/AbstractController.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/AbstractController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/AccueilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/AccueilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/BarreMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/BarreMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/GererFilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/GererFilmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/ListerFilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/ListerFilmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/converter/LocalDateJfxConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/controllers/converter/LocalDateJfxConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/FilmDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/FilmDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/RealisateurDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/RealisateurDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/commons/JpaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/commons/JpaUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/AbstractJpaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/AbstractJpaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/DaosFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/DaosFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/FilmDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/FilmDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/JpaBaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/JpaBaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/RealisateurDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/daos/impl/RealisateurDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/EntitiesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/EntitiesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/Realisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/Realisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/reference/Constante.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/entities/reference/Constante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/exceptions/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/exceptions/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/exceptions/DaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/exceptions/DaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/FacadeMetierFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/FacadeMetierFilm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/FacadeMetierRealisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/FacadeMetierRealisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/impl/FacadeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/impl/FacadeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/impl/FacadeFilmImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/impl/FacadeFilmImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/impl/FacadeRealisateurImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/model/facades/impl/FacadeRealisateurImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/Lanceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/Lanceur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/view/Screens.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/view/Screens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/view/utils/AlerteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/view/utils/AlerteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/view/utils/ClickableMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/view/utils/ClickableMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/view/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/java/net/ent/etrs/Megamovies_SANTOS/model/start/view/utils/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/resources/view/Accueil.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/resources/view/Accueil.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/resources/view/BarreMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/resources/view/BarreMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/resources/view/GererFilm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/resources/view/GererFilm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megamovies_Santos/Entrainement/src/main/resources/view/ListerFilm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/megamovies_Santos/src/main/resources/view/ListerFilm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/ent/etrs/megamovies/model/entities/Realisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/ent/etrs/megamovies/model/entities/Realisateur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +369,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3f4a2316-08df-48ff-8a4e-e50dcfae4594" />
+        <option name="url" value="https://github.com/chriscerque/KL16_javavance_megamovies.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -39,34 +408,61 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Utilisateurs/christophe.cerqueira/Documents/KL16_javavance_megamovies/Megamovies_BREVET&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "temurin-11",
+    "last_opened_file_path": "D:/javaAvance/tests/KL16_javaavance/Megamovies_Simon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Utilisateurs\christophe.cerqueira\Documents\KL16_javavance_megamovies\Megamovies_BREVET" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Utilisateurs\christophe.cerqueira\Documents\KL16_javavance_megamovies" />
+      <recent name="D:\javaAvance\tests\KL16_javaavance\Megamovies_Simon" />
+      <recent name="D:\javaAvance\tests\KL16_javaavance\megamovies_Santos" />
+      <recent name="D:\javaAvance\tests\KL16_javaavance\Megamovies_REDAOUIA" />
+      <recent name="D:\javaAvance\tests\KL16_javaavance\Megamovies_PARIS" />
+      <recent name="D:\javaAvance\tests\KL16_javaavance\Megamovies_MARCHIONE" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.KL16_javaavance [javafx:run]">
+    <configuration name="Lanceur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.ent.etrs.megamovies.start.Lanceur" />
+      <module name="KL16_javaavance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.ent.etrs.megamovies.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,6 +474,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KL16_javaavance [javafx:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lanceur" />
+      <item itemvalue="Maven.KL16_javaavance [javafx:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lanceur" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -94,6 +524,14 @@
       <workItem from="1677829026088" duration="598000" />
       <workItem from="1677829627165" duration="166000" />
     </task>
+    <task id="LOCAL-00001" summary="correction 20230306_2">
+      <created>1678088594925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678088594925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +547,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="correction 20230306_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction 20230306_2" />
   </component>
 </project>

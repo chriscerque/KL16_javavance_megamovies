@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.ent.etrs</groupId>
-    <artifactId>TEST_FARIAT_JA2</artifactId>
+    <artifactId>Megamovies_FARIAT</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
