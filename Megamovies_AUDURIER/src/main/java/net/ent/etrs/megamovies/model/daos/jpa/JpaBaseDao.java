@@ -12,6 +12,7 @@ import javax.persistence.PersistenceException;
 import javax.persistence.Query;
 import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
+import java.util.List;
 import java.util.Optional;
 
 public class JpaBaseDao<T extends AbstractEntity> implements BaseDao<T, Serializable> {
@@ -37,7 +38,7 @@ public class JpaBaseDao<T extends AbstractEntity> implements BaseDao<T, Serializ
     }
 
     @Override
-    public Iterable<T> findAll() throws DaoException {
+    public List<T> findAll() throws DaoException {
         try {
             return this.em.createQuery(
                     "SELECT t " +

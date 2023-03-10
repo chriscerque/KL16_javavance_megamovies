@@ -1,23 +1,15 @@
 package net.ent.etrs.ultramp3_GOUIN.presenter;
 
-import javafx.beans.property.SimpleObjectProperty;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
-import javafx.scene.control.cell.TextFieldTableCell;
 import net.ent.etrs.ultramp3_GOUIN.model.entities.Musique;
-import net.ent.etrs.ultramp3_GOUIN.model.entities.references.ConstanteModel;
 import net.ent.etrs.ultramp3_GOUIN.model.entities.references.Genre;
 import net.ent.etrs.ultramp3_GOUIN.model.facades.FacadeMetierFactory;
-import net.ent.etrs.ultramp3_GOUIN.model.facades.FacadeMetierMusique;
 import net.ent.etrs.ultramp3_GOUIN.model.facades.exceptions.BusinessException;
-import net.ent.etrs.ultramp3_GOUIN.view.converter.LocalDateJfxConverter;
-import net.ent.etrs.ultramp3_GOUIN.view.references.ConstanteView;
 import net.ent.etrs.ultramp3_GOUIN.view.utils.AlerteUtils;
-
-import java.time.LocalDate;
 
 public class ListerMusiqueController extends AbstractController{
 

@@ -4,13 +4,14 @@ import net.ent.etrs.megamovies.model.daos.exceptions.DaoException;
 import net.ent.etrs.megamovies.model.entities.AbstractEntity;
 
 import java.io.Serializable;
+import java.util.List;
 import java.util.Optional;
 
 public interface BaseDao<T extends AbstractEntity, ID extends Serializable> {
 
     Optional<T> find(ID id) throws DaoException;
 
-    Iterable<T> findAll() throws DaoException;
+    List<T> findAll() throws DaoException;
 
     Optional<T> save(T entity) throws DaoException;
 

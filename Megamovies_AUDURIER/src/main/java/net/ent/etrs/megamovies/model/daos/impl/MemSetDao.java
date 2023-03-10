@@ -9,6 +9,7 @@ import net.ent.etrs.megamovies.model.entities.AbstractEntity;
 import java.io.Serializable;
 import java.lang.reflect.Field;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class MemSetDao<T extends AbstractEntity> implements BaseDao<T, Serializable> {
     private static Long idCount = 1L;
@@ -56,8 +57,8 @@ public class MemSetDao<T extends AbstractEntity> implements BaseDao<T, Serializa
     }
 
     @Override
-    public Iterable<T> findAll() {
-        return Collections.unmodifiableSet(this.persistance);
+    public List<T> findAll() {
+        return Collections.unmodifiableSet(this.persistance).stream().collect(Collectors.toList());
     }
 
     @Override

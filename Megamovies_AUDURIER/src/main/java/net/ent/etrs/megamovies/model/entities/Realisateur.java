@@ -36,7 +36,7 @@ public class Realisateur extends AbstractEntity {
 
     //JPA
     @Enumerated(EnumType.STRING)
-    @ElementCollection(fetch = FetchType.LAZY)
+    @ElementCollection(fetch = FetchType.EAGER)
     @CollectionTable(name = "REALISATEUR_GENRE", joinColumns = @JoinColumn(name = "REALISATEUR_ID", foreignKey = @ForeignKey(name = "REALISATEUR_ID")))
     @Column(name = "GENRE")
     private Set<Genre> genres = new HashSet<>();

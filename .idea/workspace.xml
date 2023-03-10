@@ -4,7 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0117bf5b-19d4-431d-b290-9ac3aeb84371" name="Changes" comment="correction 20230306_2" />
+    <list default="true" id="0117bf5b-19d4-431d-b290-9ac3aeb84371" name="Changes" comment="correction 20230310_1">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/mega_movies.sAv4Kw/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/86bec0a5-4352-41c5-af47-a0b3c0a6ba4e/storage_v2/_src_/database/mega_movies.sAv4Kw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaremeJavaAvanceTest2_KL16.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/BaremeJavaAvanceTest2_KL16.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/java/net/ent/etrs/megamovies/model/daos/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/java/net/ent/etrs/megamovies/model/daos/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/java/net/ent/etrs/megamovies/model/daos/impl/MemSetDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/java/net/ent/etrs/megamovies/model/daos/impl/MemSetDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/java/net/ent/etrs/megamovies/model/daos/jpa/JpaBaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/java/net/ent/etrs/megamovies/model/daos/jpa/JpaBaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/java/net/ent/etrs/megamovies/model/entities/Realisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/java/net/ent/etrs/megamovies/model/entities/Realisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_AUDURIER/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Megamovies_MALIKI/src/main/java/net/ent/etrs/megamovies/controllers/BarreMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Megamovies_MALIKI/src/main/java/net/ent/etrs/megamovies/controllers/BarreMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/template-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/template-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/commons/utils/ContraintesVioleesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/commons/utils/ContraintesVioleesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/commons/utils/JpaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/commons/utils/JpaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/commons/validator/ValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/commons/validator/ValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/commons/validator/ValidatorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/commons/validator/ValidatorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/CompositeurDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/CompositeurDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/MusiqueDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/MusiqueDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/exceptions/DaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/exceptions/DaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/AbstractJpaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/AbstractJpaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/CompositeurDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/CompositeurDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/DaosFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/DaosFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/JpaBaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/JpaBaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/MusiqueDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/daos/impl/MusiqueDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/Compositeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/Compositeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/EntitiesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/EntitiesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/Musique.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/Musique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/references/ConstanteModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/references/ConstanteModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/references/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/entities/references/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/FacadeMetierCompositeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/FacadeMetierCompositeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/FacadeMetierFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/FacadeMetierFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/FacadeMetierMusique.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/FacadeMetierMusique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/exceptions/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/exceptions/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/impl/AbstractFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/impl/AbstractFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/impl/FacadeMetierCompositeurImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/impl/FacadeMetierCompositeurImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/impl/FacadeMetierMusiqueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/model/facades/impl/FacadeMetierMusiqueImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/AbstractController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/AbstractController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/AccueilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/AccueilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/AjouterMusiqueController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/AjouterMusiqueController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/BarreMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/BarreMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/ListerMusiqueController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/presenter/ListerMusiqueController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/start/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/start/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/start/references/ConstanteMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/start/references/ConstanteMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/converter/LocalDateJfxConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/converter/LocalDateJfxConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/references/ConstanteView.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/references/ConstanteView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/references/Screens.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/references/Screens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/utils/AlerteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/utils/AlerteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/utils/ClickableMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/utils/ClickableMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/java/net/ent/etrs/ultramp3_GOUIN/view/utils/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/resources/ultramp3_GOUIN/view/Accueil.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/resources/ultramp3_GOUIN/view/Accueil.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/resources/ultramp3_GOUIN/view/AjouterMusique.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/resources/ultramp3_GOUIN/view/AjouterMusique.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/resources/ultramp3_GOUIN/view/BarreMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/resources/ultramp3_GOUIN/view/BarreMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltraMp3_GOUIN/untitled/src/main/resources/ultramp3_GOUIN/view/ListerMusique.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/UltraMp3_GOUIN/src/main/resources/ultramp3_GOUIN/view/ListerMusique.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Megamovies_MALIKI/net/ent/etrs/megamovies/view/pom.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +85,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -63,7 +134,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_opened_file_path": "D:/javaAvance/tests/KL16_javaavance/Megamovies_Simon",
+    "last_opened_file_path": "D:/javaAvance/tests/KL16_javaavance/UltraMp3_GOUIN",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,14 +156,14 @@
       <recent name="D:\Utilisateurs\christophe.cerqueira\Documents\KL16_javavance_megamovies\Megamovies_BREVET" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaAvance\tests\KL16_javaavance\UltraMp3_GOUIN" />
       <recent name="D:\javaAvance\tests\KL16_javaavance\Megamovies_Simon" />
       <recent name="D:\javaAvance\tests\KL16_javaavance\megamovies_Santos" />
       <recent name="D:\javaAvance\tests\KL16_javaavance\Megamovies_REDAOUIA" />
       <recent name="D:\javaAvance\tests\KL16_javaavance\Megamovies_PARIS" />
-      <recent name="D:\javaAvance\tests\KL16_javaavance\Megamovies_MARCHIONE" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.KL16_javaavance [javafx:run]">
+  <component name="RunManager" selected="Maven.Megamovies_AUDURIER [javafx:run]">
     <configuration name="Lanceur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.ent.etrs.megamovies.start.Lanceur" />
       <module name="KL16_javaavance" />
@@ -117,7 +188,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KL16_javaavance [javafx:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+    <configuration name="Megamovies_AUDURIER [javafx:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -136,7 +207,7 @@
               <map />
             </option>
             <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Megamovies_AUDURIER" />
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
@@ -144,7 +215,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lanceur" />
-      <item itemvalue="Maven.KL16_javaavance [javafx:run]" />
+      <item itemvalue="Maven.Megamovies_AUDURIER [javafx:run]" />
     </list>
     <recent_temporary>
       <list>
@@ -166,6 +237,10 @@
       <workItem from="1677827088509" duration="56000" />
       <workItem from="1677829026088" duration="598000" />
       <workItem from="1677829627165" duration="166000" />
+      <workItem from="1678263421511" duration="39000" />
+      <workItem from="1678263474103" duration="4576000" />
+      <workItem from="1678347877768" duration="21897000" />
+      <workItem from="1678433800176" duration="6694000" />
     </task>
     <task id="LOCAL-00001" summary="correction 20230306_2">
       <created>1678088594925</created>
@@ -188,11 +263,133 @@
       <option name="project" value="LOCAL" />
       <updated>1678091408516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="correction 20230306_3">
+      <created>1678118171952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678118171952</updated>
+    </task>
+    <task id="LOCAL-00005" summary="correction 20230308_1">
+      <created>1678271130251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678271130251</updated>
+    </task>
+    <task id="LOCAL-00006" summary="correction 20230308_1">
+      <created>1678272570119</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678272570119</updated>
+    </task>
+    <task id="LOCAL-00007" summary="correction 20230308_1">
+      <created>1678273035866</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678273035866</updated>
+    </task>
+    <task id="LOCAL-00008" summary="correction 20230309_1">
+      <created>1678348419018</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678348419018</updated>
+    </task>
+    <task id="LOCAL-00009" summary="correction 20230309_1">
+      <created>1678350413772</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678350413772</updated>
+    </task>
+    <task id="LOCAL-00010" summary="correction 20230309_1">
+      <created>1678352728552</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678352728552</updated>
+    </task>
+    <task id="LOCAL-00011" summary="correction 20230309_1">
+      <created>1678356008056</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678356008056</updated>
+    </task>
+    <task id="LOCAL-00012" summary="correction 20230309_1">
+      <created>1678356503465</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678356503465</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correction 20230309_1">
+      <created>1678359269658</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678359269658</updated>
+    </task>
+    <task id="LOCAL-00014" summary="correction 20230309_1">
+      <created>1678368391119</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678368391119</updated>
+    </task>
+    <task id="LOCAL-00015" summary="correction 20230310_1">
+      <created>1678435832116</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678435832116</updated>
+    </task>
+    <task id="LOCAL-00016" summary="correction 20230310_1">
+      <created>1678436608912</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678436608912</updated>
+    </task>
+    <task id="LOCAL-00017" summary="correction 20230310_1">
+      <created>1678441329453</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678441329453</updated>
+    </task>
+    <task id="LOCAL-00018" summary="correction 20230310_1">
+      <created>1678441872455</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678441872455</updated>
+    </task>
+    <task id="LOCAL-00019" summary="correction 20230310_1">
+      <created>1678442819351</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678442819352</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -209,6 +406,10 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="correction 20230306_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction 20230306_2" />
+    <MESSAGE value="correction 20230306_3" />
+    <MESSAGE value="correction 20230308_1" />
+    <MESSAGE value="correction 20230309_1" />
+    <MESSAGE value="correction 20230310_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction 20230310_1" />
   </component>
 </project>

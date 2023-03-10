@@ -10,6 +10,7 @@ public class BarreMenuController extends AbstractController {
 	public VBox barre;
 	
 	
+	@FXML
 	public void listerFilms(ActionEvent actionEvent) {
 	
 	}
